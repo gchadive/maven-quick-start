@@ -2,7 +2,7 @@ package clinic.programming.training;
 import java.util.List;
 import java.util.ArrayList;
 import org.apache.commons.lang3.StringUtils;
-
+// etst the git now
 public class Application {
     
     public Application() {
